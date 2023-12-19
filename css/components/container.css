@@ -1,0 +1,27 @@
+/* All - Container */
+
+.container {
+  width:900px;
+  margin: 0 auto;
+}
+
+/* Top - Container */
+h1{
+  color:white;
+}
+
+#header-text{
+  color:white;
+}
+.container > p{
+  margin-bottom: 30px;
+}
+
+.banner > .container {
+  padding-top: 70px;
+}
+
+/* Middle - Container */
+.text-center{
+  text-align: center;
+}
